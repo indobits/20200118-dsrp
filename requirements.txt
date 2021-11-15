@@ -1,4 +1,4 @@
-pip==19.3.1
+pip==21.1
 
 geopandas==0.6.2
 jupyterlab==1.2.5
